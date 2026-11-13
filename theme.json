@@ -1,0 +1,29 @@
+{
+  "siteName": "Shawarma Kareem",
+  "description": "Authentic Shawarma in Boqaata, Chouf",
+  "lang": "en",
+  "colors": {
+    "primary": "#E11D48",
+    "secondary": "#F59E0B",
+    "accent": "#F59E0B",
+    "background": "#FAFAFA",
+    "surface": "#FFFFFF",
+    "ink": "#171717",
+    "muted": "#737373",
+    "dark": "#0A0A0A"
+  },
+  "fonts": {
+    "heading": "Montserrat",
+    "body": "Inter"
+  },
+  "extend": {
+    "colors": {},
+    "fontFamily": {},
+    "fontSize": {},
+    "spacing": {},
+    "borderRadius": {},
+    "boxShadow": {}
+  },
+  "extraCss": "",
+  "iconFont": ""
+}
